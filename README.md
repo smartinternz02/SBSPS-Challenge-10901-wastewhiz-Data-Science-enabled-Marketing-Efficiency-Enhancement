@@ -1,3 +1,3 @@
-# SBSPS-Challenge-10901-wastewhiz-Data-Science-enabled-Marketing-Efficiency-Enhancement
+# IBM HACK CHALLENGE 2023
 **Data Science-enabled Marketing Efficiency Enhancement
 **
